@@ -3,7 +3,7 @@ Pseudo digital CMT(data recoder).
 (c)2016- Akio Fujimoto , @shiva5300 all rights
                                           reserved.
 TODO :: 
---------Save to where??------- FILE? or -------------
+---Save to where??--- FILE? or internal FLASH? ---
 */
 
 
